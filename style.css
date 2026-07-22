@@ -122,7 +122,7 @@ transition:.4s;
     height:100vh;
     background:red;
 
-    background-image:url("tea-banner-desktop.jpg");
+    background-image:url("tea-banner-mobile.png");
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
