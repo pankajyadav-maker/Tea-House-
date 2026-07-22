@@ -131,7 +131,7 @@ transition:.4s;
 @media (max-width:768px){
 
 .hero{
-    background-image:url("image/tea-banner-mobile.png");
+    background-image:url("tea-banner-mobile.png");
 }
 
 }
